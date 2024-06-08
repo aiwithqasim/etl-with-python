@@ -88,3 +88,13 @@
 2024-06-01 20:21:47.246049: Process Complete
 2024-06-01 20:21:47.246049: Process Complete
 2024-06-01 20:21:47.265231: Process Complete
+2024-06-08 18:29:33.920012, Preliminaries complete. Initiating ETL process.
+)2024-06-08 18:29:35.665817, Data Extracted successfully from the wikipedia.
+)2024-06-08 18:29:35.665817, Extracttion Completed.
+)2024-06-08 18:29:35.681459, Data Transformation done now, step 2 completed.
+)2024-06-08 18:29:35.681459, Data Transformed successfully.
+)2024-06-08 18:29:35.697087, Data loaded int the CSV File.
+)2024-06-08 18:29:35.697087, DataFrame has been uploaded into CSV file on our PC.
+)2024-06-08 18:29:35.712709, Data loaded into the SQLite Database.
+)2024-06-08 18:29:35.712709, DataFrame hass been uploaded into the SQLite Database Successfully.
+)
