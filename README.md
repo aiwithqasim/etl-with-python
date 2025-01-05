@@ -1,4 +1,5 @@
-## ETL with Python 
+## ETL with Python
+
 ##### Project for Cloud Data Engineering Roadmap
 
 ### Project 01 : Acquiring and processing information on world's largest banks
@@ -11,4 +12,6 @@
 - Task 6: Function to Run queries on Database
 - Task 7: Verify log entries
 
+## Archiecture
 
+![architecture](./archiecture.jpeg)
